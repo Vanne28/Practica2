@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\user\source\repos\Practica2.PWA\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb
